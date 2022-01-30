@@ -6,24 +6,17 @@
 
 https://nlp-with-transformers.github.io/website/
 
-# My Blog
+# Website
 
+> Website for our O'Reilly book [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/).
+
+## Adding new content
+
+If you'd like to tweak the website's content, just edit the `index.html` file. If you have Docker installed, you can view the changes locally by building the website with:
+
+```bash
+make server
+```
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
-
-## What To Do Next?
-
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
-
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
-
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
-
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
-
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
-
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
