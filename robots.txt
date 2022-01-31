@@ -1,1 +1,1 @@
-Sitemap: http://transformersbook.com/sitemap.xml
+Sitemap: https://transformersbook.com/sitemap.xml

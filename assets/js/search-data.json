@@ -25,7 +25,7 @@
       "page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "http://transformersbook.com/robots.txt",
+          "url": "https://transformersbook.com/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
