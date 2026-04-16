@@ -1,1 +1,1 @@
-Sitemap: https://transformersbook.com/sitemap.xml
+Sitemap: https://nlp-with-transformers.github.io/website/sitemap.xml

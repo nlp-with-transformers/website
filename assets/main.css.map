@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../tmp/jekyll-remote-theme-20260416-1-i1nix7/_sass/minima.scss",
-		"../../tmp/jekyll-remote-theme-20260416-1-i1nix7/_sass/minima/_base.scss",
-		"../../tmp/jekyll-remote-theme-20260416-1-i1nix7/_sass/minima/_layout.scss",
-		"../../tmp/jekyll-remote-theme-20260416-1-i1nix7/_sass/minima/_syntax-highlighting.scss"
+		"../../tmp/jekyll-remote-theme-20260416-1-cpi41p/_sass/minima.scss",
+		"../../tmp/jekyll-remote-theme-20260416-1-cpi41p/_sass/minima/_base.scss",
+		"../../tmp/jekyll-remote-theme-20260416-1-cpi41p/_sass/minima/_layout.scss",
+		"../../tmp/jekyll-remote-theme-20260416-1-cpi41p/_sass/minima/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"@import \"minima\";\n",
