@@ -25,7 +25,7 @@
       "page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://transformersbook.com/robots.txt",
+          "url": "https://nlp-with-transformers.github.io/website/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }
